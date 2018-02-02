@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_action_next_item">res/drawable-mdpi-v4/ic_action_next_item.png</drawable>
+    <drawable name="ic_action_next_item">res/drawable-hdpi-v4/ic_action_next_item.png</drawable>
+    <drawable name="ic_action_next_item">res/drawable-xhdpi-v4/ic_action_next_item.png</drawable>
+    <drawable name="ic_action_next_item">res/drawable-xxhdpi-v4/ic_action_next_item.png</drawable>
+    <drawable name="ic_action_previous_item">res/drawable-mdpi-v4/ic_action_previous_item.png</drawable>
+    <drawable name="ic_action_previous_item">res/drawable-hdpi-v4/ic_action_previous_item.png</drawable>
+    <drawable name="ic_action_previous_item">res/drawable-xhdpi-v4/ic_action_previous_item.png</drawable>
+    <drawable name="ic_action_previous_item">res/drawable-xxhdpi-v4/ic_action_previous_item.png</drawable>
+    <drawable name="ic_action_remove">res/drawable-mdpi-v4/ic_action_remove.png</drawable>
+    <drawable name="ic_action_remove">res/drawable-hdpi-v4/ic_action_remove.png</drawable>
+    <drawable name="ic_action_remove">res/drawable-xhdpi-v4/ic_action_remove.png</drawable>
+    <drawable name="ic_action_remove">res/drawable-xxhdpi-v4/ic_action_remove.png</drawable>
+    <drawable name="icon">res/drawable-ldpi-v4/icon.png</drawable>
+    <drawable name="icon">res/drawable-mdpi-v4/icon.png</drawable>
+    <drawable name="icon">res/drawable-hdpi-v4/icon.png</drawable>
+    <drawable name="icon">res/drawable-xhdpi-v4/icon.png</drawable>
+    <drawable name="icon">res/drawable-xxhdpi-v4/icon.png</drawable>
+    <drawable name="icon">res/drawable-xxxhdpi-v4/icon.png</drawable>
+    <drawable name="screen">res/drawable-port-ldpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-land-ldpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-port-mdpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-land-mdpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-port-hdpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-land-hdpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-port-xhdpi-v4/screen.png</drawable>
+    <drawable name="screen">res/drawable-land-xhdpi-v4/screen.png</drawable>
+</resources>
